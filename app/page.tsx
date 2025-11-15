@@ -7,7 +7,7 @@ import { ChevronDown } from "lucide-react";
 
 export default function Home() {
     return (
-        <main className="relative min-h-screen w-full bg-black text-white overflow-hidden">
+        <main className="relative min-h-screen w-full bg-black text-white overflow-x-hidden">
 
             {/* NAV */}
             <DronescapeNav />
